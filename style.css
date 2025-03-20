@@ -1,0 +1,23 @@
+/* Style général */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+/* Titre */
+h1 {
+    color: #333;
+}
+
+/* Score */
+.score {
+    font-size: 1.5em;
+    color: #333;
+}
+
+/* Canvas (zone de jeu) */
+canvas {
+    border: 3px solid black;
+    background-color: #eee;
+}
